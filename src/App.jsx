@@ -8,6 +8,7 @@ import Login from './pages/Login';
 import Home from './pages/Home';
 import Cart from './pages/Cart';
 import {useUser} from "@clerk/clerk-react"
+import { Navigate } from 'react-router-dom';
 
 function App() {
 

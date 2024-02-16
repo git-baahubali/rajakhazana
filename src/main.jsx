@@ -20,3 +20,13 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </ClerkProvider>
 
 )
+
+// function left(){
+//   console.log("left");
+// }
+
+// function right(){
+//   console.log("right");
+// }   
+
+// left() || right()
